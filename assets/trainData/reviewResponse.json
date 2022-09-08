@@ -1,0 +1,2493 @@
+{
+"select id,puntuaje  as puntaje,comentario,valid_response  from ventas_calificaciones": [
+	{
+		"id" : 6,
+		"puntaje" : 1,
+		"comentario" : "Nada más que agregar\nSolamente muchas gracias 😊",
+		"valid_response" : 1
+	},
+	{
+		"id" : 14,
+		"puntaje" : 1,
+		"comentario" : "joya",
+		"valid_response" : 1
+	},
+	{
+		"id" : 15,
+		"puntaje" : 1,
+		"comentario" : "👏🏼👏🏼👏🏼✨",
+		"valid_response" : 1
+	},
+	{
+		"id" : 16,
+		"puntaje" : 1,
+		"comentario" : "Todo muy rico, excelente servicio! Muchas gracias!",
+		"valid_response" : 1
+	},
+	{
+		"id" : 17,
+		"puntaje" : 2,
+		"comentario" : "Todo en orden.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 18,
+		"puntaje" : 2,
+		"comentario" : "todo ok",
+		"valid_response" : 1
+	},
+	{
+		"id" : 19,
+		"puntaje" : 3,
+		"comentario" : "todo ok",
+		"valid_response" : 1
+	},
+	{
+		"id" : 20,
+		"puntaje" : 1,
+		"comentario" : "Todo ok",
+		"valid_response" : 1
+	},
+	{
+		"id" : 21,
+		"puntaje" : 2,
+		"comentario" : "Todo de 10",
+		"valid_response" : 1
+	},
+	{
+		"id" : 22,
+		"puntaje" : 2,
+		"comentario" : "Todo muy bien",
+		"valid_response" : 1
+	},
+	{
+		"id" : 23,
+		"puntaje" : 1,
+		"comentario" : "Excelente disposición y ayuda...muy recomendable...ya envié otros clientes",
+		"valid_response" : 1
+	},
+	{
+		"id" : 24,
+		"puntaje" : 1,
+		"comentario" : "1",
+		"valid_response" : 0
+	},
+	{
+		"id" : 26,
+		"puntaje" : 1,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 27,
+		"puntaje" : 1,
+		"comentario" : "Ok",
+		"valid_response" : 0
+	},
+	{
+		"id" : 29,
+		"puntaje" : 1,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 30,
+		"puntaje" : 1,
+		"comentario" : "Si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 31,
+		"puntaje" : 1,
+		"comentario" : "1",
+		"valid_response" : 0
+	},
+	{
+		"id" : 32,
+		"puntaje" : 1,
+		"comentario" : "Si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 33,
+		"puntaje" : 1,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 34,
+		"puntaje" : 1,
+		"comentario" : "Ok",
+		"valid_response" : 0
+	},
+	{
+		"id" : 35,
+		"puntaje" : 1,
+		"comentario" : "Es excelente la calidad de los productos, la facilidad  para gestionarlos, el precio y el servicio de transporte a domicilio.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 36,
+		"puntaje" : 2,
+		"comentario" : "El envío siempre a sido rápido y nunca me faltó algún producto comprado y las carnes son de muy buena calidad",
+		"valid_response" : 1
+	},
+	{
+		"id" : 37,
+		"puntaje" : 2,
+		"comentario" : "Como compradora puedo decir q cuentan con productos accesibles y de calidad.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 38,
+		"puntaje" : 1,
+		"comentario" : "La atención es muy buena.\nEl servicio es rápido y eficaz en toda la línea\nLa carne es excelente\nLos precios son adecuados\nPor todo esto voy a seguir comprando allí",
+		"valid_response" : 1
+	},
+	{
+		"id" : 39,
+		"puntaje" : 2,
+		"comentario" : "Hasta ahora el servicio muy bien, el producto todavía no lo he consumido para dar una respuesta al respecto  ni bien lo haga comento",
+		"valid_response" : 1
+	},
+	{
+		"id" : 40,
+		"puntaje" : 2,
+		"comentario" : "Sólo me hubiera gustado que me respondan el mensaje que envié hoy a las 10 de la mañana",
+		"valid_response" : 1
+	},
+	{
+		"id" : 41,
+		"puntaje" : 1,
+		"comentario" : "Es fácil para comprar, sin complicaciones.  Rápido la entrega y muy buenos precios y productos.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 42,
+		"puntaje" : 1,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 43,
+		"puntaje" : 2,
+		"comentario" : "Excelente atención!",
+		"valid_response" : 1
+	},
+	{
+		"id" : 44,
+		"puntaje" : 1,
+		"comentario" : "Muy buena calidad",
+		"valid_response" : 1
+	},
+	{
+		"id" : 45,
+		"puntaje" : 3,
+		"comentario" : "Debería extender el.reparto",
+		"valid_response" : 1
+	},
+	{
+		"id" : 46,
+		"puntaje" : 1,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 47,
+		"puntaje" : 1,
+		"comentario" : "Ok",
+		"valid_response" : 0
+	},
+	{
+		"id" : 48,
+		"puntaje" : 1,
+		"comentario" : "Siempre muy buena atención.  Y productos de calidad",
+		"valid_response" : 0
+	},
+	{
+		"id" : 49,
+		"puntaje" : 1,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 50,
+		"puntaje" : 1,
+		"comentario" : "Exelente, facil de hacer el oedido llegó  rapidicimo, lo mejor de todo el producto🐷🐽 😊👍👍",
+		"valid_response" : 1
+	},
+	{
+		"id" : 51,
+		"puntaje" : 2,
+		"comentario" : "Es un servicio, ágil y cómodo.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 52,
+		"puntaje" : 1,
+		"comentario" : "calidad, cordialidad, eficiencia",
+		"valid_response" : 1
+	},
+	{
+		"id" : 54,
+		"puntaje" : 1,
+		"comentario" : "Es muy buena la calidad de la carne y la atención es excelente.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 55,
+		"puntaje" : 2,
+		"comentario" : "La calidad de los productos siempre ha Sido de buena a muy buena. Mientras siga así continuaré comprando. Saludos",
+		"valid_response" : 1
+	},
+	{
+		"id" : 56,
+		"puntaje" : 1,
+		"comentario" : "Si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 57,
+		"puntaje" : 1,
+		"comentario" : "Eficiencia y calidad de los productos",
+		"valid_response" : 1
+	},
+	{
+		"id" : 58,
+		"puntaje" : 2,
+		"comentario" : "Me gusta buena atención y cumplidores",
+		"valid_response" : 1
+	},
+	{
+		"id" : 59,
+		"puntaje" : 1,
+		"comentario" : "Bueno",
+		"valid_response" : 0
+	},
+	{
+		"id" : 60,
+		"puntaje" : 1,
+		"comentario" : "... quisiera  saber  como  se  logra  tener  unos  cupones  descuentos  ... les  consulte  por  gmail  hace tiempo  peeo  no  me  han  dado  datos  ...¡!¡!\nGracias  ...🍁",
+		"valid_response" : 0
+	},
+	{
+		"id" : 61,
+		"puntaje" : 1,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 62,
+		"puntaje" : 1,
+		"comentario" : "Holaaa",
+		"valid_response" : 0
+	},
+	{
+		"id" : 63,
+		"puntaje" : 1,
+		"comentario" : "Excelente calidad y atención",
+		"valid_response" : 1
+	},
+	{
+		"id" : 64,
+		"puntaje" : 1,
+		"comentario" : "Siempre todo perfecto!",
+		"valid_response" : 1
+	},
+	{
+		"id" : 65,
+		"puntaje" : 2,
+		"comentario" : "Si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 66,
+		"puntaje" : 1,
+		"comentario" : "Rapidez en la entrega, cumplen con los plazos y productos de excelente calidad",
+		"valid_response" : 1
+	},
+	{
+		"id" : 67,
+		"puntaje" : 1,
+		"comentario" : "Productos de Calidad, excelente atención online y personal.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 68,
+		"puntaje" : 1,
+		"comentario" : "Muy clara la página para saber que corte conviene comprar. Excelente el servicio a domicilio y los productos muy buenos. Y lo mejorves encontrar cortes que normalmente no encontrás en las carnicerias.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 69,
+		"puntaje" : 1,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 70,
+		"puntaje" : 1,
+		"comentario" : "Maravilloso",
+		"valid_response" : 1
+	},
+	{
+		"id" : 71,
+		"puntaje" : 2,
+		"comentario" : "Todo más que bien 🙌🏼",
+		"valid_response" : 1
+	},
+	{
+		"id" : 72,
+		"puntaje" : 1,
+		"comentario" : "Todo muy bien 💪🏼",
+		"valid_response" : 1
+	},
+	{
+		"id" : 73,
+		"puntaje" : 1,
+		"comentario" : "Todo de 10 👏🏼👏🏼🙌🏼✨",
+		"valid_response" : 1
+	},
+	{
+		"id" : 74,
+		"puntaje" : 1,
+		"comentario" : "1",
+		"valid_response" : 0
+	},
+	{
+		"id" : 75,
+		"puntaje" : 1,
+		"comentario" : "1!!!",
+		"valid_response" : 0
+	},
+	{
+		"id" : 76,
+		"puntaje" : 1,
+		"comentario" : "Todo OK",
+		"valid_response" : 0
+	},
+	{
+		"id" : 77,
+		"puntaje" : 3,
+		"comentario" : "Sin haberlo cocinado",
+		"valid_response" : 1
+	},
+	{
+		"id" : 78,
+		"puntaje" : 1,
+		"comentario" : "Página amigable, excelente mercaderia, atención impecable!!!",
+		"valid_response" : 1
+	},
+	{
+		"id" : 79,
+		"puntaje" : 1,
+		"comentario" : "Todo ok",
+		"valid_response" : 1
+	},
+	{
+		"id" : 80,
+		"puntaje" : 1,
+		"comentario" : "Tomo muy bien 💪🏼💪🏼😁",
+		"valid_response" : 1
+	},
+	{
+		"id" : 81,
+		"puntaje" : 1,
+		"comentario" : "Es una exelente firma por servicio y productos .\nEstoy esperando los cupones de descuento",
+		"valid_response" : 1
+	},
+	{
+		"id" : 82,
+		"puntaje" : 1,
+		"comentario" : "La verdad q realize un reclamo hoy ...sin esperar nada a cambio, solo era una critica constructiva .\nY me encontre con q no solo me escucharon si no q tuvieron una atencion para conmigo.\nQ mas puede pedir un cliente....nada mas , mas q feliz !!!!\nY tengo q recatar q la atencion de las chicas en recepcion es genial , unos de sus puntos mas altos !!!!\nGracias y buen finde .",
+		"valid_response" : 1
+	},
+	{
+		"id" : 83,
+		"puntaje" : 1,
+		"comentario" : "Buena carne, buenos precios, buena atención!",
+		"valid_response" : 1
+	},
+	{
+		"id" : 84,
+		"puntaje" : 1,
+		"comentario" : "No se me ocurre nada. Muy buen servicio",
+		"valid_response" : 1
+	},
+	{
+		"id" : 85,
+		"puntaje" : 1,
+		"comentario" : "Excelentes productos",
+		"valid_response" : 1
+	},
+	{
+		"id" : 86,
+		"puntaje" : 1,
+		"comentario" : "Si",
+		"valid_response" : 1
+	},
+	{
+		"id" : 87,
+		"puntaje" : 1,
+		"comentario" : "Si",
+		"valid_response" : 1
+	},
+	{
+		"id" : 88,
+		"puntaje" : 1,
+		"comentario" : "Buena calidad, buena atención, super recomendable.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 89,
+		"puntaje" : 1,
+		"comentario" : "Si lo hare",
+		"valid_response" : 1
+	},
+	{
+		"id" : 90,
+		"puntaje" : 1,
+		"comentario" : "Son muy confiables y venden productos de muy buena calidad.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 91,
+		"puntaje" : 1,
+		"comentario" : "Si",
+		"valid_response" : 1
+	},
+	{
+		"id" : 93,
+		"puntaje" : 1,
+		"comentario" : "Todo en tiempo y forma y los productos muy bueno tendrías q hacer una parte solo ofertas para agilizar",
+		"valid_response" : 1
+	},
+	{
+		"id" : 94,
+		"puntaje" : 1,
+		"comentario" : "Si",
+		"valid_response" : 1
+	},
+	{
+		"id" : 95,
+		"puntaje" : 1,
+		"comentario" : "Muy buena calidad y excelente el tiempo de envío. .. realmente satisfecho",
+		"valid_response" : 1
+	},
+	{
+		"id" : 96,
+		"puntaje" : 1,
+		"comentario" : "Muy buena atención, envío a domicilio en término y productos excelentes",
+		"valid_response" : 1
+	},
+	{
+		"id" : 97,
+		"puntaje" : 1,
+		"comentario" : "Muy buen servicio. Agil",
+		"valid_response" : 1
+	},
+	{
+		"id" : 98,
+		"puntaje" : 1,
+		"comentario" : "1",
+		"valid_response" : 0
+	},
+	{
+		"id" : 99,
+		"puntaje" : 2,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 100,
+		"puntaje" : 2,
+		"comentario" : "Excelente calidad en carne de cerdo y vacuna.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 101,
+		"puntaje" : 2,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 102,
+		"puntaje" : 1,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 104,
+		"puntaje" : 2,
+		"comentario" : "Si muy buena la calidad de la carne, brindan un buen servicio y el envío gratis también gana muchos puntos!!!",
+		"valid_response" : 1
+	},
+	{
+		"id" : 105,
+		"puntaje" : 1,
+		"comentario" : "Si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 106,
+		"puntaje" : 1,
+		"comentario" : "1",
+		"valid_response" : 0
+	},
+	{
+		"id" : 107,
+		"puntaje" : 1,
+		"comentario" : "1",
+		"valid_response" : 0
+	},
+	{
+		"id" : 108,
+		"puntaje" : 1,
+		"comentario" : "Por ahora no",
+		"valid_response" : 1
+	},
+	{
+		"id" : 109,
+		"puntaje" : 1,
+		"comentario" : "Si,muy responsables y cumplidores.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 119,
+		"puntaje" : 1,
+		"comentario" : "Ya compré 4 veces y en todas, la calidad de la carne es muy buena: tierna, fresca y sabrosa.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 111,
+		"puntaje" : 2,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 112,
+		"puntaje" : 2,
+		"comentario" : "Excelente atención y buenos precios",
+		"valid_response" : 1
+	},
+	{
+		"id" : 113,
+		"puntaje" : 1,
+		"comentario" : "como siempre",
+		"valid_response" : 1
+	},
+	{
+		"id" : 114,
+		"puntaje" : 2,
+		"comentario" : "Muy útil el servicio",
+		"valid_response" : 1
+	},
+	{
+		"id" : 115,
+		"puntaje" : 1,
+		"comentario" : "Siempre compro y todo de calidad",
+		"valid_response" : 1
+	},
+	{
+		"id" : 116,
+		"puntaje" : 2,
+		"comentario" : "👍🏽",
+		"valid_response" : 0
+	},
+	{
+		"id" : 117,
+		"puntaje" : 1,
+		"comentario" : "Calidad del producto",
+		"valid_response" : 1
+	},
+	{
+		"id" : 118,
+		"puntaje" : 2,
+		"comentario" : "👍🏻",
+		"valid_response" : 0
+	},
+	{
+		"id" : 120,
+		"puntaje" : 2,
+		"comentario" : "Es un sistema de venta muy cómodo, muy buena calidad productos, variedad  de cortes y especies. Fasil acceso para retirar.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 125,
+		"puntaje" : 1,
+		"comentario" : "Salió todo muy bien 💪🏼",
+		"valid_response" : 1
+	},
+	{
+		"id" : 121,
+		"puntaje" : 2,
+		"comentario" : "Hola buen día disculpa sabes q compre carne y hice 2 compras y una no me aparece en Gmail  a ustedes le aparece",
+		"valid_response" : 0
+	},
+	{
+		"id" : 122,
+		"puntaje" : 2,
+		"comentario" : "Hola hoy atienden?",
+		"valid_response" : 0
+	},
+	{
+		"id" : 123,
+		"puntaje" : 1,
+		"comentario" : "👍",
+		"valid_response" : 0
+	},
+	{
+		"id" : 124,
+		"puntaje" : 1,
+		"comentario" : "Gracias!!",
+		"valid_response" : 0
+	},
+	{
+		"id" : 126,
+		"puntaje" : 1,
+		"comentario" : "Todo muy bien 👏🏼",
+		"valid_response" : 1
+	},
+	{
+		"id" : 127,
+		"puntaje" : 1,
+		"comentario" : "Super conforme. Muy buen servicio y siempre muy amables en la atención",
+		"valid_response" : 1
+	},
+	{
+		"id" : 128,
+		"puntaje" : 2,
+		"comentario" : "Muy buena presentación y excelente HIGIENE.  Cuando disfrute de los Cortes le transmitiré mi opinión referida a la carne",
+		"valid_response" : 1
+	},
+	{
+		"id" : 129,
+		"puntaje" : 1,
+		"comentario" : "Exelente calidad\nNo pierdo tiempo en hacer colas\nPago con mercado pago\nY el tiempo de entrega es rápido....   Muchas gracias por sus servicios",
+		"valid_response" : 1
+	},
+	{
+		"id" : 130,
+		"puntaje" : 2,
+		"comentario" : "Así está bien, lo recomiendo a mis amistades y conocidos",
+		"valid_response" : 1
+	},
+	{
+		"id" : 131,
+		"puntaje" : 1,
+		"comentario" : "Sistema de ventas muy cómodo y práctico. Excelente distribución y calidad de los productos. Para la parrilla hsy cortes que no es facil conseguir en carnicerias.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 132,
+		"puntaje" : 3,
+		"comentario" : "Las descripciones no son tan claras",
+		"valid_response" : 1
+	},
+	{
+		"id" : 133,
+		"puntaje" : 1,
+		"comentario" : "Estoy conforme con el servicio y la calidad del producto, quedé siempre como un campeón a la hora de cocinar así que gracias 😎",
+		"valid_response" : 1
+	},
+	{
+		"id" : 136,
+		"puntaje" : 2,
+		"comentario" : "👍",
+		"valid_response" : 1
+	},
+	{
+		"id" : 134,
+		"puntaje" : 1,
+		"comentario" : "2",
+		"valid_response" : 0
+	},
+	{
+		"id" : 135,
+		"puntaje" : 1,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 137,
+		"puntaje" : 2,
+		"comentario" : "Es rápido sin hacer colas y hay que ponerce de acuerdo con otras personas para comprar por cantidad. Gracias por los servicios .",
+		"valid_response" : 1
+	},
+	{
+		"id" : 142,
+		"puntaje" : 2,
+		"comentario" : "Si, de echo los recomiendo!",
+		"valid_response" : 1
+	},
+	{
+		"id" : 138,
+		"puntaje" : 1,
+		"comentario" : "Si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 139,
+		"puntaje" : 1,
+		"comentario" : "1",
+		"valid_response" : 0
+	},
+	{
+		"id" : 140,
+		"puntaje" : 2,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 141,
+		"puntaje" : 1,
+		"comentario" : "Ok",
+		"valid_response" : 0
+	},
+	{
+		"id" : 143,
+		"puntaje" : 2,
+		"comentario" : "Que es ágil, simple y cumplen con lo acordado.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 144,
+		"puntaje" : 1,
+		"comentario" : "Los precios son los mejores y la calidad es excelente. La atención impecable. Muchas Gracias.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 148,
+		"puntaje" : 1,
+		"comentario" : "Es práctico. \nExquisita carne.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 145,
+		"puntaje" : 2,
+		"comentario" : "Si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 146,
+		"puntaje" : 1,
+		"comentario" : "💪",
+		"valid_response" : 0
+	},
+	{
+		"id" : 147,
+		"puntaje" : 1,
+		"comentario" : "1",
+		"valid_response" : 0
+	},
+	{
+		"id" : 152,
+		"puntaje" : 1,
+		"comentario" : "Muy Buena",
+		"valid_response" : 1
+	},
+	{
+		"id" : 149,
+		"puntaje" : 1,
+		"comentario" : "Si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 151,
+		"puntaje" : 1,
+		"comentario" : "Si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 153,
+		"puntaje" : 1,
+		"comentario" : "Siempre todo en condiciones y muy buenos productos y precios",
+		"valid_response" : 1
+	},
+	{
+		"id" : 154,
+		"puntaje" : 1,
+		"comentario" : "Todo ok 🔥",
+		"valid_response" : 1
+	},
+	{
+		"id" : 155,
+		"puntaje" : 1,
+		"comentario" : "Todo de 10!",
+		"valid_response" : 1
+	},
+	{
+		"id" : 160,
+		"puntaje" : 2,
+		"comentario" : "Muy buenos productos y muy buena atención",
+		"valid_response" : 1
+	},
+	{
+		"id" : 156,
+		"puntaje" : 2,
+		"comentario" : "Por ahora no, gracias",
+		"valid_response" : 0
+	},
+	{
+		"id" : 157,
+		"puntaje" : 1,
+		"comentario" : "Por ahora no",
+		"valid_response" : 0
+	},
+	{
+		"id" : 158,
+		"puntaje" : 1,
+		"comentario" : "1",
+		"valid_response" : 0
+	},
+	{
+		"id" : 162,
+		"puntaje" : 1,
+		"comentario" : "Siempre obtengo mercadería de muy buena calidad, los retiros en planta son rápidos, el personal que atiende público, es con el único que se mantiene contacto, es muy servicial y amable. Sigo comprando periódicamente en Senderos de Raza",
+		"valid_response" : 1
+	},
+	{
+		"id" : 161,
+		"puntaje" : 1,
+		"comentario" : "1",
+		"valid_response" : 0
+	},
+	{
+		"id" : 164,
+		"puntaje" : 1,
+		"comentario" : "Todo muy bien 👏🏼👏🏼",
+		"valid_response" : 1
+	},
+	{
+		"id" : 163,
+		"puntaje" : 2,
+		"comentario" : "Si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 168,
+		"puntaje" : 1,
+		"comentario" : "Muchísimas gracias!",
+		"valid_response" : 1
+	},
+	{
+		"id" : 165,
+		"puntaje" : 2,
+		"comentario" : "Hola buen dia! queria consultar aproximadamente cuantos pollos trae la caja",
+		"valid_response" : 0
+	},
+	{
+		"id" : 166,
+		"puntaje" : 1,
+		"comentario" : "Cómo siempre no falla",
+		"valid_response" : 0
+	},
+	{
+		"id" : 167,
+		"puntaje" : 3,
+		"comentario" : "??",
+		"valid_response" : 0
+	},
+	{
+		"id" : 169,
+		"puntaje" : 1,
+		"comentario" : "Todo excelente 👾",
+		"valid_response" : 1
+	},
+	{
+		"id" : 170,
+		"puntaje" : 1,
+		"comentario" : "comenzamos a necesitar mas herramientas para poder adquirir productos y servicios de manera remota o virtual, y realmente éste sitio cuenta con todo lo que se necesita para vivir una experiencia de compra satisfactoria, con imágenes, precios publicados, alternativas de pago, envío a domicilio sin cargo, sin dejar de lado el buen precio y una carne espectacular.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 171,
+		"puntaje" : 1,
+		"comentario" : "🔥👏🏼👾",
+		"valid_response" : 1
+	},
+	{
+		"id" : 175,
+		"puntaje" : 1,
+		"comentario" : "Todo de 10 🤖",
+		"valid_response" : 1
+	},
+	{
+		"id" : 172,
+		"puntaje" : 1,
+		"comentario" : "Si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 173,
+		"puntaje" : 1,
+		"comentario" : "Si!",
+		"valid_response" : 0
+	},
+	{
+		"id" : 174,
+		"puntaje" : 1,
+		"comentario" : "1",
+		"valid_response" : 0
+	},
+	{
+		"id" : 176,
+		"puntaje" : 1,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 110,
+		"puntaje" : 2,
+		"comentario" : "👍🏻",
+		"valid_response" : 0
+	},
+	{
+		"id" : 179,
+		"puntaje" : 1,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 182,
+		"puntaje" : 1,
+		"comentario" : "Rápido , súper cómodo y mercaderia excelente calidad",
+		"valid_response" : 1
+	},
+	{
+		"id" : 181,
+		"puntaje" : 1,
+		"comentario" : "👍🏿",
+		"valid_response" : 0
+	},
+	{
+		"id" : 183,
+		"puntaje" : 1,
+		"comentario" : "Que la calidad es excelente",
+		"valid_response" : 1
+	},
+	{
+		"id" : 184,
+		"puntaje" : 1,
+		"comentario" : "Buen dia me podes decir en la segunda compra de Rib cuantos kilos son ?",
+		"valid_response" : 1
+	},
+	{
+		"id" : 186,
+		"puntaje" : 1,
+		"comentario" : "Excelente el servicio y la calidad de los productos que ofrecen",
+		"valid_response" : 1
+	},
+	{
+		"id" : 185,
+		"puntaje" : 2,
+		"comentario" : "No gracias!",
+		"valid_response" : 0
+	},
+	{
+		"id" : 187,
+		"puntaje" : 2,
+		"comentario" : "Muy buena y rápida la entrega!!",
+		"valid_response" : 1
+	},
+	{
+		"id" : 188,
+		"puntaje" : 1,
+		"comentario" : "Que son totalmente recomendables y eficientes",
+		"valid_response" : 1
+	},
+	{
+		"id" : 190,
+		"puntaje" : 2,
+		"comentario" : "No, ya los he recomendado a mis conocidos",
+		"valid_response" : 1
+	},
+	{
+		"id" : 193,
+		"puntaje" : 2,
+		"comentario" : "Muy bueno el sistema, el precio del corte que compré también... no les puse excelente nomas porque todavía no lo hice pero hasta ahora va todo excelente",
+		"valid_response" : 1
+	},
+	{
+		"id" : 191,
+		"puntaje" : 1,
+		"comentario" : "Si no hay problema",
+		"valid_response" : 0
+	},
+	{
+		"id" : 192,
+		"puntaje" : 1,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 194,
+		"puntaje" : 2,
+		"comentario" : "Mí experiencia es muy buena,los productos excelentes,carnes muy tiernas, presentación óptima y en mí caso en con delivery, también excelente.Estoy muy conforme.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 195,
+		"puntaje" : 1,
+		"comentario" : "Desde la atención a la calidad del producto y el envío a domicilio, son excelentes. La página para realizar las compras es muy amigable y fácil de utilizar.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 198,
+		"puntaje" : 1,
+		"comentario" : "Mmm no. La única \"critica\" es el horario de atención. Pero bueno, uno se acomoda... La calidad lo vale",
+		"valid_response" : 1
+	},
+	{
+		"id" : 196,
+		"puntaje" : 1,
+		"comentario" : "Ok",
+		"valid_response" : 0
+	},
+	{
+		"id" : 197,
+		"puntaje" : 1,
+		"comentario" : "?",
+		"valid_response" : 0
+	},
+	{
+		"id" : 200,
+		"puntaje" : 1,
+		"comentario" : "Me encanta y a mis clientes también... todos contentos.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 201,
+		"puntaje" : 1,
+		"comentario" : "Muy bien el tema de envío gratis,todo lo que compré muy buena calidad y fresco,la presentación está muy buena",
+		"valid_response" : 1
+	},
+	{
+		"id" : 202,
+		"puntaje" : 2,
+		"comentario" : "Genial, gracias por el aviso, quedo a la espera. Saludos! 👋🏼",
+		"valid_response" : 1
+	},
+	{
+		"id" : 204,
+		"puntaje" : 1,
+		"comentario" : "Que es muy recomendable",
+		"valid_response" : 1
+	},
+	{
+		"id" : 203,
+		"puntaje" : 1,
+		"comentario" : "N",
+		"valid_response" : 0
+	},
+	{
+		"id" : 208,
+		"puntaje" : 2,
+		"comentario" : "Muy buena la página web y rápida la operación de compra, muy buena las recetas orientativas y excelente la atención de las chicas de expendio",
+		"valid_response" : 1
+	},
+	{
+		"id" : 205,
+		"puntaje" : 3,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 206,
+		"puntaje" : 1,
+		"comentario" : "Ahora ?",
+		"valid_response" : 0
+	},
+	{
+		"id" : 207,
+		"puntaje" : 1,
+		"comentario" : "Si no envio calificacion no  entregan",
+		"valid_response" : 0
+	},
+	{
+		"id" : 209,
+		"puntaje" : 2,
+		"comentario" : "Buenos días ayer hice un pedido a la tarde . A que hora salen los repartos . Analia Barros",
+		"valid_response" : 1
+	},
+	{
+		"id" : 211,
+		"puntaje" : 2,
+		"comentario" : "No es problema. Considero que tienen muy buen equilibrio costo\/calidad\/ servicio",
+		"valid_response" : 1
+	},
+	{
+		"id" : 210,
+		"puntaje" : 1,
+		"comentario" : "Hola buen día. Hice compra ayer. Curcio Ramiro. Para calle Vélez sarfield 863. Ustedes avisan cuando estén en camino?",
+		"valid_response" : 0
+	},
+	{
+		"id" : 180,
+		"puntaje" : 1,
+		"comentario" : "Muy buena todo y buena atención",
+		"valid_response" : 1
+	},
+	{
+		"id" : 212,
+		"puntaje" : 1,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 213,
+		"puntaje" : 2,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 214,
+		"puntaje" : 1,
+		"comentario" : "Ahora no puedo  saludos",
+		"valid_response" : 0
+	},
+	{
+		"id" : 215,
+		"puntaje" : 1,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 216,
+		"puntaje" : 1,
+		"comentario" : "Si, excelente mercaderia y servicio de entrega. Recomiendo 100%",
+		"valid_response" : 1
+	},
+	{
+		"id" : 217,
+		"puntaje" : 1,
+		"comentario" : "Ya estoy en casa por si le queda bien al repartidor",
+		"valid_response" : 0
+	},
+	{
+		"id" : 218,
+		"puntaje" : 2,
+		"comentario" : "Cuando retire el pedido compre algo algo que me olvide pero, queria pagarlo en efectivo y debi entrar a la pagina y pagar con tarjeta.. eso no me gusto",
+		"valid_response" : 1
+	},
+	{
+		"id" : 219,
+		"puntaje" : 2,
+		"comentario" : "SI",
+		"valid_response" : 0
+	},
+	{
+		"id" : 221,
+		"puntaje" : 1,
+		"comentario" : "El servicio es impecable. De principio a fin.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 235,
+		"puntaje" : 2,
+		"comentario" : "Muy buena y rápida atención",
+		"valid_response" : 1
+	},
+	{
+		"id" : 222,
+		"puntaje" : 1,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 223,
+		"puntaje" : 1,
+		"comentario" : "Buena predisposición para la entrega, y productos de excelente calidad.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 224,
+		"puntaje" : 2,
+		"comentario" : "No, gracias",
+		"valid_response" : 0
+	},
+	{
+		"id" : 225,
+		"puntaje" : 2,
+		"comentario" : "👌",
+		"valid_response" : 0
+	},
+	{
+		"id" : 226,
+		"puntaje" : 1,
+		"comentario" : "Por ahora no",
+		"valid_response" : 0
+	},
+	{
+		"id" : 227,
+		"puntaje" : 1,
+		"comentario" : "Si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 228,
+		"puntaje" : 1,
+		"comentario" : "Excelentes productos ademas de la atencion",
+		"valid_response" : 1
+	},
+	{
+		"id" : 229,
+		"puntaje" : 1,
+		"comentario" : "Muy buena calidad y puntualidad. Además, nos divertimos con las las publicidades.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 230,
+		"puntaje" : 1,
+		"comentario" : "Después de comer lo comprado",
+		"valid_response" : 1
+	},
+	{
+		"id" : 231,
+		"puntaje" : 1,
+		"comentario" : "No me di cuenta de que el cordero estaba congelado, entiendo fue mi error porque aclaran en la página pero tal vez una comunicación más clara podría ayudar, el resto impecable",
+		"valid_response" : 1
+	},
+	{
+		"id" : 232,
+		"puntaje" : 2,
+		"comentario" : "excelente atención!",
+		"valid_response" : 1
+	},
+	{
+		"id" : 421,
+		"puntaje" : 2,
+		"comentario" : "Recomendable 100% en servicio y productos.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 220,
+		"puntaje" : 1,
+		"comentario" : "Calidad de los productos y atención: Muy Bien 10 FELICITADO",
+		"valid_response" : 1
+	},
+	{
+		"id" : 236,
+		"puntaje" : 1,
+		"comentario" : "Excelente la atención. Hemos probado el T-Bone cocido al horno, BUENISIMO. Felicitaciones por el producto👏👏👏",
+		"valid_response" : 1
+	},
+	{
+		"id" : 237,
+		"puntaje" : 1,
+		"comentario" : "recibido, gracias",
+		"valid_response" : 0
+	},
+	{
+		"id" : 238,
+		"puntaje" : 1,
+		"comentario" : "Todo muy rápido, practico y de calidad.  Gracias",
+		"valid_response" : 1
+	},
+	{
+		"id" : 239,
+		"puntaje" : 1,
+		"comentario" : "Nada para agradar. Muy conforme con el servicio y productos. Gracias, saludos!",
+		"valid_response" : 1
+	},
+	{
+		"id" : 240,
+		"puntaje" : 2,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 241,
+		"puntaje" : 1,
+		"comentario" : "Hola chicos como les va? Sabes que hace un ratito hice una compra por un costi de 4.6kg. Los tienen armados ya? O se puede pedir que no lo marquen por favor? A nombre de augusto caunedo",
+		"valid_response" : 0
+	},
+	{
+		"id" : 242,
+		"puntaje" : 1,
+		"comentario" : "Excelente atención y calidad 👌 muchas gracias. Saludos",
+		"valid_response" : 1
+	},
+	{
+		"id" : 243,
+		"puntaje" : 1,
+		"comentario" : "Si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 244,
+		"puntaje" : 1,
+		"comentario" : "Que lo pongan a prueba, no se arrepentirán de la experiencia y de los productos adquiridos.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 245,
+		"puntaje" : 2,
+		"comentario" : "No gracias.",
+		"valid_response" : 0
+	},
+	{
+		"id" : 246,
+		"puntaje" : 1,
+		"comentario" : "La carne vacuna siempre es excelente, te venden lo que dicen que es y a un buen precio. Es fácil, práctico y muy rápido comprar y tienen cortes que solo se consiguen ahí. La única vez que compré bondiola de cerdo no me pareció muy buena. Los demás productos no los he probado pero la carne vacuna es excelente.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 247,
+		"puntaje" : 1,
+		"comentario" : "La carne es muy buena y llega en tiempo y en forma",
+		"valid_response" : 1
+	},
+	{
+		"id" : 248,
+		"puntaje" : 1,
+		"comentario" : "Siempre compro y todo excelente calidad",
+		"valid_response" : 1
+	},
+	{
+		"id" : 233,
+		"puntaje" : 1,
+		"comentario" : "Si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 251,
+		"puntaje" : 2,
+		"comentario" : "Si quiere ahora, dígame cuanto y le doy en efectivo",
+		"valid_response" : 0
+	},
+	{
+		"id" : 252,
+		"puntaje" : 2,
+		"comentario" : "Si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 287,
+		"puntaje" : 2,
+		"comentario" : "Buenas",
+		"valid_response" : 0
+	},
+	{
+		"id" : 254,
+		"puntaje" : 1,
+		"comentario" : "Vale destacar trato con el cliente de las cajeras te hace sentir muy como muchas gracias",
+		"valid_response" : 1
+	},
+	{
+		"id" : 255,
+		"puntaje" : 1,
+		"comentario" : "Hola, si pero termine comprando por la página por un tema de precio",
+		"valid_response" : 1
+	},
+	{
+		"id" : 256,
+		"puntaje" : 5,
+		"comentario" : "No, nada más",
+		"valid_response" : 0
+	},
+	{
+		"id" : 258,
+		"puntaje" : 2,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 259,
+		"puntaje" : 1,
+		"comentario" : "Después de comer el producto, sí",
+		"valid_response" : 1
+	},
+	{
+		"id" : 260,
+		"puntaje" : 1,
+		"comentario" : "No gracias",
+		"valid_response" : 0
+	},
+	{
+		"id" : 261,
+		"puntaje" : 1,
+		"comentario" : "Si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 262,
+		"puntaje" : 1,
+		"comentario" : "Excelente atención y excelente calidad del producto",
+		"valid_response" : 1
+	},
+	{
+		"id" : 263,
+		"puntaje" : 1,
+		"comentario" : "Desde que comencé a compar en senderos de  raza la carne me salio espectacular..mejor que en otros lados",
+		"valid_response" : 1
+	},
+	{
+		"id" : 264,
+		"puntaje" : 1,
+		"comentario" : "Si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 265,
+		"puntaje" : 1,
+		"comentario" : "Buenos días",
+		"valid_response" : 0
+	},
+	{
+		"id" : 266,
+		"puntaje" : 2,
+		"comentario" : "Buenos días, puedo pasar a retirar la  compra a nombre de Pablo Carrasco",
+		"valid_response" : 0
+	},
+	{
+		"id" : 267,
+		"puntaje" : 2,
+		"comentario" : "Por ahora no",
+		"valid_response" : 0
+	},
+	{
+		"id" : 268,
+		"puntaje" : 2,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 277,
+		"puntaje" : 1,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 269,
+		"puntaje" : 1,
+		"comentario" : "Estuvo bueno la otra vez que enviaron un cupón de descuento. Por ahí podrían hacer algo como un sistema de puntaje para canjear por cupones de % de descuento o similar",
+		"valid_response" : 1
+	},
+	{
+		"id" : 270,
+		"puntaje" : 1,
+		"comentario" : "Claro",
+		"valid_response" : 0
+	},
+	{
+		"id" : 271,
+		"puntaje" : 1,
+		"comentario" : "Si, que compren tranquilos que no se van a arrepentir",
+		"valid_response" : 1
+	},
+	{
+		"id" : 272,
+		"puntaje" : 1,
+		"comentario" : "No gracias!",
+		"valid_response" : 0
+	},
+	{
+		"id" : 273,
+		"puntaje" : 2,
+		"comentario" : "Me avisarían porfa si reponen stock de medio costillar así compro antes de ir a retirar y me traigo todo?",
+		"valid_response" : 0
+	},
+	{
+		"id" : 274,
+		"puntaje" : 1,
+		"comentario" : "Ok no hay problema",
+		"valid_response" : 0
+	},
+	{
+		"id" : 275,
+		"puntaje" : 1,
+		"comentario" : "Muy buena  la calidad de la carne ,las entregas son en tiempo y  forma",
+		"valid_response" : 1
+	},
+	{
+		"id" : 276,
+		"puntaje" : 2,
+		"comentario" : "Muy buena atención y productos.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 278,
+		"puntaje" : 2,
+		"comentario" : "No ésta vez... gracias igual!!",
+		"valid_response" : 0
+	},
+	{
+		"id" : 279,
+		"puntaje" : 1,
+		"comentario" : "No gracias",
+		"valid_response" : 0
+	},
+	{
+		"id" : 280,
+		"puntaje" : 2,
+		"comentario" : "No, gracias",
+		"valid_response" : 0
+	},
+	{
+		"id" : 281,
+		"puntaje" : 2,
+		"comentario" : "Muy buen producto, atención, cómodo para hacer las compras y el servicio de entrega a domicilio, espectacular, gracias",
+		"valid_response" : 1
+	},
+	{
+		"id" : 282,
+		"puntaje" : 2,
+		"comentario" : "Muy buena calidad y excelente atención, lamentablemente a veces falta lo que uno quiere comprar. Pero estoy muy conforme. Gracias",
+		"valid_response" : 1
+	},
+	{
+		"id" : 283,
+		"puntaje" : 1,
+		"comentario" : "Calidad de primera tanto en servicio como en el producto... Los recomendé anteriormente y lo seguiré haciendo",
+		"valid_response" : 1
+	},
+	{
+		"id" : 284,
+		"puntaje" : 2,
+		"comentario" : "Productos de muy buena calidad y mucha practicidad en el proceso de compra y retiro de la mercadería.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 285,
+		"puntaje" : 3,
+		"comentario" : "Cuit 27.11742992.5\nLidia Mabel Galliussi\nIllia 44",
+		"valid_response" : 0
+	},
+	{
+		"id" : 286,
+		"puntaje" : 1,
+		"comentario" : "Muy buena atención en el local y el funcionamiento de la,web para el pedido",
+		"valid_response" : 1
+	},
+	{
+		"id" : 288,
+		"puntaje" : 1,
+		"comentario" : "Cómo sería?",
+		"valid_response" : 0
+	},
+	{
+		"id" : 289,
+		"puntaje" : 3,
+		"comentario" : "No gracias",
+		"valid_response" : 0
+	},
+	{
+		"id" : 290,
+		"puntaje" : 1,
+		"comentario" : "👍",
+		"valid_response" : 0
+	},
+	{
+		"id" : 291,
+		"puntaje" : 1,
+		"comentario" : "Bueno me pueden cancelar la compra y devolver la plata?",
+		"valid_response" : 0
+	},
+	{
+		"id" : 292,
+		"puntaje" : 1,
+		"comentario" : "👍",
+		"valid_response" : 0
+	},
+	{
+		"id" : 293,
+		"puntaje" : 5,
+		"comentario" : "Commerce?",
+		"valid_response" : 0
+	},
+	{
+		"id" : 294,
+		"puntaje" : 1,
+		"comentario" : "👍",
+		"valid_response" : 0
+	},
+	{
+		"id" : 295,
+		"puntaje" : 1,
+		"comentario" : "Excelente servicio y producto, lo recomiendo!",
+		"valid_response" : 1
+	},
+	{
+		"id" : 296,
+		"puntaje" : 2,
+		"comentario" : "Muy buena calidad de productos , pero muy buena calidad .",
+		"valid_response" : 1
+	},
+	{
+		"id" : 297,
+		"puntaje" : 1,
+		"comentario" : "Siempre ha sido excelente",
+		"valid_response" : 1
+	},
+	{
+		"id" : 298,
+		"puntaje" : 2,
+		"comentario" : "No nada mas gracias, estoy trabajando en este momento",
+		"valid_response" : 0
+	},
+	{
+		"id" : 299,
+		"puntaje" : 1,
+		"comentario" : "No, nada mas",
+		"valid_response" : 0
+	},
+	{
+		"id" : 253,
+		"puntaje" : 1,
+		"comentario" : "Todo perfecto! solo un detalle, la pagina a veces no funciona bien y carga en el carrito cualquier cosa.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 302,
+		"puntaje" : 2,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 303,
+		"puntaje" : 1,
+		"comentario" : "Muy buen servicio y calidad de carne",
+		"valid_response" : 1
+	},
+	{
+		"id" : 304,
+		"puntaje" : 1,
+		"comentario" : "Los productos son excelentes y la atencion de las chicas en la recepcion es fenomenal!!!!\nSuperconforme 👏👏👏👏",
+		"valid_response" : 1
+	},
+	{
+		"id" : 305,
+		"puntaje" : 1,
+		"comentario" : "Si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 306,
+		"puntaje" : 1,
+		"comentario" : "No por ahora",
+		"valid_response" : 0
+	},
+	{
+		"id" : 307,
+		"puntaje" : 1,
+		"comentario" : "Buenos días en el dia de ayer realice una compra de queso provoleta. \nQuería saber para cuando esta designado el reparto ya que tengo que salir de viaje GRACIAS!!!!",
+		"valid_response" : 0
+	},
+	{
+		"id" : 308,
+		"puntaje" : 1,
+		"comentario" : "Ok",
+		"valid_response" : 0
+	},
+	{
+		"id" : 309,
+		"puntaje" : 1,
+		"comentario" : "Compre sobre la hora y pude retirar enseguida.\nTuve que cambiar un producto por carne fresca y también fueron flexibles. \nResponden rápido por WhatsApp",
+		"valid_response" : 1
+	},
+	{
+		"id" : 310,
+		"puntaje" : 1,
+		"comentario" : "Muy buena calidad d la carné y buenos precios gracias",
+		"valid_response" : 1
+	},
+	{
+		"id" : 250,
+		"puntaje" : 1,
+		"comentario" : "ya los califique ademas siempre les comento a mis amigos, a los visitantes se los recomiento no se van a arrepentir",
+		"valid_response" : 1
+	},
+	{
+		"id" : 311,
+		"puntaje" : 1,
+		"comentario" : "👍",
+		"valid_response" : 0
+	},
+	{
+		"id" : 312,
+		"puntaje" : 2,
+		"comentario" : "👍👍",
+		"valid_response" : 0
+	},
+	{
+		"id" : 313,
+		"puntaje" : 1,
+		"comentario" : "Igualmente. Saludos cordiales",
+		"valid_response" : 0
+	},
+	{
+		"id" : 314,
+		"puntaje" : 1,
+		"comentario" : "Buenísimo los espero!",
+		"valid_response" : 0
+	},
+	{
+		"id" : 315,
+		"puntaje" : 2,
+		"comentario" : "No a vos en privado,por la compra anterior que te hice..",
+		"valid_response" : 1
+	},
+	{
+		"id" : 316,
+		"puntaje" : 1,
+		"comentario" : "Muy buen servicio! . Practico a la hora de comprar y los envios. De diez!",
+		"valid_response" : 1
+	},
+	{
+		"id" : 317,
+		"puntaje" : 2,
+		"comentario" : "Todo perfecto lo unico que estaria buena q cada semana saquen una super oferta de distintos cortes de carne. Saludos",
+		"valid_response" : 1
+	},
+	{
+		"id" : 318,
+		"puntaje" : 1,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 319,
+		"puntaje" : 1,
+		"comentario" : "1",
+		"valid_response" : 0
+	},
+	{
+		"id" : 321,
+		"puntaje" : 1,
+		"comentario" : "Buena la atención y muy buena la mercadería no es la primera ves que compro de esta manera",
+		"valid_response" : 1
+	},
+	{
+		"id" : 322,
+		"puntaje" : 1,
+		"comentario" : "Muy buena atención",
+		"valid_response" : 0
+	},
+	{
+		"id" : 323,
+		"puntaje" : 1,
+		"comentario" : "Buenos días",
+		"valid_response" : 0
+	},
+	{
+		"id" : 324,
+		"puntaje" : 1,
+		"comentario" : "No. Gracias",
+		"valid_response" : 0
+	},
+	{
+		"id" : 325,
+		"puntaje" : 1,
+		"comentario" : "Muy buen servicio rápido fácil cómodo",
+		"valid_response" : 1
+	},
+	{
+		"id" : 326,
+		"puntaje" : 1,
+		"comentario" : "Si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 327,
+		"puntaje" : 2,
+		"comentario" : "Hola Daisi, si claro",
+		"valid_response" : 0
+	},
+	{
+		"id" : 328,
+		"puntaje" : 1,
+		"comentario" : "Gracias",
+		"valid_response" : 0
+	},
+	{
+		"id" : 329,
+		"puntaje" : 1,
+		"comentario" : "Compro hace un tiempo y siempre conforme con la calidad de la carne y el servicio de entrega.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 301,
+		"puntaje" : 3,
+		"comentario" : "No especificaba en página que el producto  estaba conelado",
+		"valid_response" : 1
+	},
+	{
+		"id" : 355,
+		"puntaje" : 5,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 356,
+		"puntaje" : 1,
+		"comentario" : "Asi seria",
+		"valid_response" : 0
+	},
+	{
+		"id" : 357,
+		"puntaje" : 1,
+		"comentario" : "3",
+		"valid_response" : 0
+	},
+	{
+		"id" : 358,
+		"puntaje" : 1,
+		"comentario" : "E",
+		"valid_response" : 0
+	},
+	{
+		"id" : 359,
+		"puntaje" : 3,
+		"comentario" : "No gracias",
+		"valid_response" : 0
+	},
+	{
+		"id" : 360,
+		"puntaje" : 5,
+		"comentario" : "2",
+		"valid_response" : 0
+	},
+	{
+		"id" : 361,
+		"puntaje" : 1,
+		"comentario" : "Si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 362,
+		"puntaje" : 1,
+		"comentario" : "Como sería el código de descuento",
+		"valid_response" : 1
+	},
+	{
+		"id" : 363,
+		"puntaje" : 1,
+		"comentario" : "Hasta cuándo es válido el cupón ?",
+		"valid_response" : 1
+	},
+	{
+		"id" : 364,
+		"puntaje" : 2,
+		"comentario" : "2",
+		"valid_response" : 0
+	},
+	{
+		"id" : 365,
+		"puntaje" : 1,
+		"comentario" : "Hola y buenas tardes, acabo de hacer dos compras por la página, escribo para pedir si se puede hacer el despacho mañana luego de las 13 por favor",
+		"valid_response" : 0
+	},
+	{
+		"id" : 366,
+		"puntaje" : 1,
+		"comentario" : "Buenos días",
+		"valid_response" : 0
+	},
+	{
+		"id" : 367,
+		"puntaje" : 1,
+		"comentario" : "Lo mejor, hace mucho soy cliente y la atención y calidad es excelente.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 368,
+		"puntaje" : 1,
+		"comentario" : "Excelente como siempre...",
+		"valid_response" : 1
+	},
+	{
+		"id" : 369,
+		"puntaje" : 2,
+		"comentario" : "Si. Estoy en casa",
+		"valid_response" : 0
+	},
+	{
+		"id" : 370,
+		"puntaje" : 1,
+		"comentario" : "Buena calidad de la carne y excelente atencion",
+		"valid_response" : 0
+	},
+	{
+		"id" : 371,
+		"puntaje" : 1,
+		"comentario" : "son unos genios uds!!",
+		"valid_response" : 1
+	},
+	{
+		"id" : 372,
+		"puntaje" : 1,
+		"comentario" : "3",
+		"valid_response" : 0
+	},
+	{
+		"id" : 373,
+		"puntaje" : 1,
+		"comentario" : "No, gracias, estoy muy conforme ✨🤗",
+		"valid_response" : 1
+	},
+	{
+		"id" : 374,
+		"puntaje" : 2,
+		"comentario" : "Disculpas daisi, hacemos consumidor final",
+		"valid_response" : 1
+	},
+	{
+		"id" : 375,
+		"puntaje" : 1,
+		"comentario" : "Excelente los productos que ofrecen de muy buena calidad y el servicio",
+		"valid_response" : 1
+	},
+	{
+		"id" : 376,
+		"puntaje" : 1,
+		"comentario" : "2",
+		"valid_response" : 0
+	},
+	{
+		"id" : 377,
+		"puntaje" : 1,
+		"comentario" : "En otro momento gracias",
+		"valid_response" : 0
+	},
+	{
+		"id" : 378,
+		"puntaje" : 1,
+		"comentario" : "🤔",
+		"valid_response" : 0
+	},
+	{
+		"id" : 379,
+		"puntaje" : 1,
+		"comentario" : "No fue sencillo y rápido",
+		"valid_response" : 0
+	},
+	{
+		"id" : 380,
+		"puntaje" : 1,
+		"comentario" : "Buenísima calidad y presentación en los cortes",
+		"valid_response" : 1
+	},
+	{
+		"id" : 381,
+		"puntaje" : 1,
+		"comentario" : "si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 382,
+		"puntaje" : 1,
+		"comentario" : "1",
+		"valid_response" : 0
+	},
+	{
+		"id" : 383,
+		"puntaje" : 1,
+		"comentario" : "Si. Dale",
+		"valid_response" : 0
+	},
+	{
+		"id" : 384,
+		"puntaje" : 1,
+		"comentario" : "Hola buen día",
+		"valid_response" : 0
+	},
+	{
+		"id" : 385,
+		"puntaje" : 1,
+		"comentario" : "Hola buen día",
+		"valid_response" : 0
+	},
+	{
+		"id" : 386,
+		"puntaje" : 1,
+		"comentario" : "1",
+		"valid_response" : 0
+	},
+	{
+		"id" : 387,
+		"puntaje" : 2,
+		"comentario" : "Ok",
+		"valid_response" : 0
+	},
+	{
+		"id" : 389,
+		"puntaje" : 1,
+		"comentario" : "1",
+		"valid_response" : 0
+	},
+	{
+		"id" : 390,
+		"puntaje" : 1,
+		"comentario" : "Si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 391,
+		"puntaje" : 1,
+		"comentario" : "Excelente todo",
+		"valid_response" : 1
+	},
+	{
+		"id" : 393,
+		"puntaje" : 2,
+		"comentario" : "Ok",
+		"valid_response" : 0
+	},
+	{
+		"id" : 395,
+		"puntaje" : 1,
+		"comentario" : "Muy buena atención, la mercadería llegó rapidísima, en menos de UNA (1)hora, muy dinámica la forma de pago, la verdad que los calificaría de EXCELENCIA COMERCIAL, muchas gracias !!!!",
+		"valid_response" : 1
+	},
+	{
+		"id" : 396,
+		"puntaje" : 1,
+		"comentario" : "Ok",
+		"valid_response" : 0
+	},
+	{
+		"id" : 397,
+		"puntaje" : 2,
+		"comentario" : "Práctico servicio... Web.. Carrito... Pagas... Vas y retiras sin cola ni espera... Sencillo 👍",
+		"valid_response" : 1
+	},
+	{
+		"id" : 398,
+		"puntaje" : 1,
+		"comentario" : "Hola ! Muchas gracias ! En el domicilio está mi esposa",
+		"valid_response" : 1
+	},
+	{
+		"id" : 399,
+		"puntaje" : 1,
+		"comentario" : "Una app seria ideal. Y extender entregas a cipolletti",
+		"valid_response" : 1
+	},
+	{
+		"id" : 400,
+		"puntaje" : 1,
+		"comentario" : "1",
+		"valid_response" : 0
+	},
+	{
+		"id" : 401,
+		"puntaje" : 2,
+		"comentario" : "Buenas tardes! Tienen idea cuando estarán recibiendo bondiola?",
+		"valid_response" : 1
+	},
+	{
+		"id" : 402,
+		"puntaje" : 1,
+		"comentario" : "Ok gracias",
+		"valid_response" : 0
+	},
+	{
+		"id" : 403,
+		"puntaje" : 3,
+		"comentario" : "Listo ya realice pago, te pido que vengan lunes por favor ya que mañana no estaremos",
+		"valid_response" : 0
+	},
+	{
+		"id" : 404,
+		"puntaje" : 3,
+		"comentario" : "Gracias.",
+		"valid_response" : 0
+	},
+	{
+		"id" : 405,
+		"puntaje" : 1,
+		"comentario" : "Hola muchas gracias",
+		"valid_response" : 0
+	},
+	{
+		"id" : 406,
+		"puntaje" : 2,
+		"comentario" : "Bien. Buen dia",
+		"valid_response" : 0
+	},
+	{
+		"id" : 407,
+		"puntaje" : 1,
+		"comentario" : "Lo primero lo agil que es comprar y lo otro la excelente calidad de los productos",
+		"valid_response" : 1
+	},
+	{
+		"id" : 408,
+		"puntaje" : 1,
+		"comentario" : "Hola!",
+		"valid_response" : 0
+	},
+	{
+		"id" : 409,
+		"puntaje" : 1,
+		"comentario" : "Ok",
+		"valid_response" : 0
+	},
+	{
+		"id" : 410,
+		"puntaje" : 2,
+		"comentario" : "Gracias por comunicarte con Damian Pino Seguros. Para gestiones administrativas, denuncias de siniestros y pedido de documentación contactate al número 2994161989 y serás atendido a la brevedad. Muchas gracias!!!",
+		"valid_response" : 1
+	},
+	{
+		"id" : 411,
+		"puntaje" : 1,
+		"comentario" : "al final puede aplicarlo , muchas gracias !!",
+		"valid_response" : 0
+	},
+	{
+		"id" : 412,
+		"puntaje" : 1,
+		"comentario" : "Hola buenos días",
+		"valid_response" : 0
+	},
+	{
+		"id" : 413,
+		"puntaje" : 1,
+		"comentario" : "👍",
+		"valid_response" : 0
+	},
+	{
+		"id" : 414,
+		"puntaje" : 1,
+		"comentario" : "👍🏻",
+		"valid_response" : 0
+	},
+	{
+		"id" : 415,
+		"puntaje" : 1,
+		"comentario" : "1",
+		"valid_response" : 0
+	},
+	{
+		"id" : 416,
+		"puntaje" : 1,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 417,
+		"puntaje" : 1,
+		"comentario" : "Perfecto",
+		"valid_response" : 0
+	},
+	{
+		"id" : 418,
+		"puntaje" : 1,
+		"comentario" : "Bueno.",
+		"valid_response" : 0
+	},
+	{
+		"id" : 419,
+		"puntaje" : 1,
+		"comentario" : "Si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 420,
+		"puntaje" : 1,
+		"comentario" : "1",
+		"valid_response" : 0
+	},
+	{
+		"id" : 423,
+		"puntaje" : 5,
+		"comentario" : "5",
+		"valid_response" : 0
+	},
+	{
+		"id" : 331,
+		"puntaje" : 2,
+		"comentario" : "Nono, gracias",
+		"valid_response" : 0
+	},
+	{
+		"id" : 332,
+		"puntaje" : 1,
+		"comentario" : "Todo excelente desde la preparación a la atención y entrega!\nMuchas gracias!",
+		"valid_response" : 1
+	},
+	{
+		"id" : 333,
+		"puntaje" : 1,
+		"comentario" : "Ok",
+		"valid_response" : 0
+	},
+	{
+		"id" : 334,
+		"puntaje" : 1,
+		"comentario" : "Espectacular el servicio, soy de general roca, hago el pedido en la ruta y cuando llego solo paso a retirar. Nada de espera.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 335,
+		"puntaje" : 1,
+		"comentario" : "Hola buen dia como ago para obtener cupones de descuentos",
+		"valid_response" : 1
+	},
+	{
+		"id" : 336,
+		"puntaje" : 1,
+		"comentario" : "Todo muy bien. Buena experiencia.  La página web es intuitiva y fácil de navegar, las opciones de pago son varias, el envío a domicilio es rápido y con mensajes que te avisan como va el pedido.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 337,
+		"puntaje" : 2,
+		"comentario" : "Es mi primera compra. Prefiero esperar a probar los productos",
+		"valid_response" : 1
+	},
+	{
+		"id" : 338,
+		"puntaje" : 1,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 340,
+		"puntaje" : 1,
+		"comentario" : "Si",
+		"valid_response" : 0
+	},
+	{
+		"id" : 341,
+		"puntaje" : 2,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 342,
+		"puntaje" : 2,
+		"comentario" : "Gracias",
+		"valid_response" : 0
+	},
+	{
+		"id" : 343,
+		"puntaje" : 5,
+		"comentario" : "Uh no, pense que era bueno",
+		"valid_response" : 1
+	},
+	{
+		"id" : 344,
+		"puntaje" : 1,
+		"comentario" : "No no gracias",
+		"valid_response" : 0
+	},
+	{
+		"id" : 345,
+		"puntaje" : 1,
+		"comentario" : "👍",
+		"valid_response" : 0
+	},
+	{
+		"id" : 346,
+		"puntaje" : 2,
+		"comentario" : "Holaa",
+		"valid_response" : 0
+	},
+	{
+		"id" : 347,
+		"puntaje" : 1,
+		"comentario" : "Excelente la calidad, muy buenos precio.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 348,
+		"puntaje" : 2,
+		"comentario" : "No gracias",
+		"valid_response" : 0
+	},
+	{
+		"id" : 349,
+		"puntaje" : 1,
+		"comentario" : "Hasta ahora muy buena calidad, y llega en tiempo acordado.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 350,
+		"puntaje" : 1,
+		"comentario" : "No gracias",
+		"valid_response" : 0
+	},
+	{
+		"id" : 351,
+		"puntaje" : 2,
+		"comentario" : "2",
+		"valid_response" : 0
+	},
+	{
+		"id" : 352,
+		"puntaje" : 1,
+		"comentario" : "👍🏻",
+		"valid_response" : 0
+	},
+	{
+		"id" : 1,
+		"puntaje" : 1,
+		"comentario" : "No",
+		"valid_response" : 0
+	},
+	{
+		"id" : 5,
+		"puntaje" : 1,
+		"comentario" : "Una atención espectacular. La carne es de muy buena calidad y el servicio de reparto es excelente",
+		"valid_response" : 1
+	},
+	{
+		"id" : 25,
+		"puntaje" : 1,
+		"comentario" : "Si, realmente el servicio es muy bueno, como asi también la calidad de los productos. Altamente recomendable",
+		"valid_response" : 1
+	},
+	{
+		"id" : 28,
+		"puntaje" : 2,
+		"comentario" : "En cuanto a calidad de productos y atención al cliente, 10 puntos.. En precios, antes eran más competitivos, casi sin competencia respecto a otros frigorífico, hoy la mayoría de cortes son más baratos en otros frigoríficos grandes de nqn, hoy compré pollo que es lo más barato respecto a otros lugares",
+		"valid_response" : 1
+	},
+	{
+		"id" : 53,
+		"puntaje" : 1,
+		"comentario" : "Uf. Mucho para desir estoy muyyyy satisfecha con el servicio... A sido una Gran ayuda para los q trabajamos. Y nos cuesta salir a comprar... Gran iniciativa el envío a Domicilio.\n\nLos productos son excelentes... Y ya eh perdido la cuenta a cuantas personas ya se los recomendé... Estoy muy Satisfecha... Si me gustaría saber como puedo obtener CUPONES DE DESCUENTO... POR Q REALIZO COMPRAS MUY grandes y Si podría ser mejor tener esa posibilidad... Gracias.. Muy amables... 👍👍👍",
+		"valid_response" : 1
+	},
+	{
+		"id" : 92,
+		"puntaje" : 1,
+		"comentario" : "Hace un tiempo que compro en Senderos de Raza, sus productos , son de calidad, precios moderados, entrega segun lo pactado, sin dudas, siempre los recomiendo.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 103,
+		"puntaje" : 2,
+		"comentario" : "Puedo decir que la atención fue excelente, por ahora no puedo calificar los productos porque recién los acabo de recibir y no los hemos probado. Pero toda la compra fue excelente, tuve un contratiempo al momento de hacer el pago y me guiaron para poder concretarlo. Gracias",
+		"valid_response" : 1
+	},
+	{
+		"id" : 150,
+		"puntaje" : 1,
+		"comentario" : "Tienen un muy buen servicio , entrega puerta a puerta ,en tiempo y forma,muy conforme de trabajar con ustedes.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 159,
+		"puntaje" : 1,
+		"comentario" : "En pocas palabras: la calidad de los productos es excelente, la página es simple y directa, bien organizada, el envío a domicilio lo tienen bien aceitado e informan los pasos que dan. En cuanto a precios hay algunos lugares \"algo\" mas economico pero el combo de todo lo mencionado sigue siendo excelente.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 177,
+		"puntaje" : 2,
+		"comentario" : "nada mas, gracias",
+		"valid_response" : 1
+	},
+	{
+		"id" : 178,
+		"puntaje" : 1,
+		"comentario" : "Muy buena carne  y entrega rapida....no se me ocurre nada mas.",
+		"valid_response" : 1
+	},
+	{
+		"id" : 189,
+		"puntaje" : 1,
+		"comentario" : "Siempre la mejor calidad en carnes, todas sus variedades. Y excelentes precios y atención!!!",
+		"valid_response" : 1
+	},
+	{
+		"id" : 199,
+		"puntaje" : 1,
+		"comentario" : "No me gusto, ya es la segunda vez que compro a travez del sitio web a domicilio y ambas veces me llego puro hueso y grasa y a penas un poco de carne, la primera vez pense que era un poco de mala suerte pero ya dos veces es a proposito",
+		"valid_response" : 1
+	},
+	{
+		"id" : 353,
+		"puntaje" : 2,
+		"comentario" : "Gracias",
+		"valid_response" : 0
+	},
+	{
+		"id" : 354,
+		"puntaje" : 1,
+		"comentario" : "Hola! Recién hice una compra y me di cuenta que hacen los envíos en un horario en el que no estaré en casa. Les puedo pedir a que lo envíen a otra dirección?",
+		"valid_response" : 1
+	},
+	{
+		"id" : 388,
+		"puntaje" : 1,
+		"comentario" : "Buenos días",
+		"valid_response" : 0
+	},
+	{
+		"id" : 392,
+		"puntaje" : 2,
+		"comentario" : "Los productos de muy buena calidad y la atención es excelente",
+		"valid_response" : 1
+	},
+	{
+		"id" : 394,
+		"puntaje" : 1,
+		"comentario" : "Si en este lugar encuentro productos de calidad y en buen precio nunca me llego algo q no me gustará o q tendria la necesidad de devolverla al contrario siempre me quedo más q satisfecha !gracias x su amabilidad y servicio!",
+		"valid_response" : 1
+	},
+	{
+		"id" : 422,
+		"puntaje" : 2,
+		"comentario" : "Hola buenas tardes",
+		"valid_response" : 0
+	},
+	{
+		"id" : 424,
+		"puntaje" : 1,
+		"comentario" : "Quiero el queso !!!. después les.comento que son muy cordiales con los clientes .",
+		"valid_response" : 1
+	},
+	{
+		"id" : 425,
+		"puntaje" : 1,
+		"comentario" : "X favor tener en cuenta se ponen nerviosos si tocan la puerta y no se puen3n levantar tienen 82 y 83 años",
+		"valid_response" : 1
+	},
+	{
+		"id" : 320,
+		"puntaje" : 1,
+		"comentario" : "Y pedile disculpas de mi parte una vez más al chico que me trajo el pedido! 🥲\nCuando me llamo pensé que era alguien más, por eso no lo atendí con buena onda 🫠\nMuchas gracias por todo! Saludos!!",
+		"valid_response" : 1
+	},
+	{
+		"id" : 330,
+		"puntaje" : 1,
+		"comentario" : "Todas las veces que compré los productos resultaron muy buenos y de calidad.\nLa atención de las chicas de recepción es espectacular y  muy atentas.\nEs fácil comprar x la página y te avisan apenas está listo para retirar!!",
+		"valid_response" : 1
+	},
+	{
+		"id" : 339,
+		"puntaje" : 1,
+		"comentario" : "En mí opinión la experiencia de compra es bastante completa, los pasos a seguir son sencillos y el momento del pago también está bien administrado, aunque hay algunas tarjetas que mercado pago no admite. La página web tendría que omitir los productos que no tienen stock o marcarlos por adelantado de que no están disponibles para no obstaculizar la venta, sin embargo son la primera opción al momento de comprar por internet en mí familia, gracias!",
+		"valid_response" : 1
+	},
+	{
+		"id" : 234,
+		"puntaje" : 1,
+		"comentario" : "Ya he comprado varias veces a través de la página,  la cual es de muy fácil acceso e interactiva. \nSiempre tuve excelentes experiencias. Los productos llegaron en excelente estado de conservación. \nLa comunicación a través del WhatsApp es muy fluida y contestan enseguida. \nCon respecto a la calidad, he adquirido carne vacuna, cerdo y pescado. Todos muy buenos.\nLos precios son razonables y siempre aprovecho las ofertas👍🏽",
+		"valid_response" : 1
+	},
+	{
+		"id" : 249,
+		"puntaje" : 1,
+		"comentario" : "Ahhh yo porque estaba a 3 cuadra del límite y la última vez me dijeron que no había problema, pero bueno si se complica veo para la próxima,",
+		"valid_response" : 0
+	},
+	{
+		"id" : 257,
+		"puntaje" : 1,
+		"comentario" : "Todo muy sencillo. Muy facil la aplicacion para seleccionar los productos y concretar la compra. Muy buena comunicacion y rapidez en la preparacion de la mercaderia. La calidad de los productos son excelentes y los precios muy competitivos",
+		"valid_response" : 1
+	},
+	{
+		"id" : 300,
+		"puntaje" : 1,
+		"comentario" : "Si, la compra es muy simple y rápida ; la elección de productos fácil; muy buena calidad de los productos y el servicio domiciliario excelente.",
+		"valid_response" : 1
+	}
+]}
