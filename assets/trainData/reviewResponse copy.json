@@ -1,4 +1,5 @@
- [
+{
+"select id,puntuaje  as puntaje,comentario,valid_response  from ventas_calificaciones": [
 	{
 		"id" : 6,
 		"puntaje" : 1,
@@ -2489,4 +2490,4 @@
 		"comentario" : "Si, la compra es muy simple y rápida ; la elección de productos fácil; muy buena calidad de los productos y el servicio domiciliario excelente.",
 		"valid_response" : 1
 	}
-]
+]}
